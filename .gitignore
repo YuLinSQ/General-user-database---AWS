@@ -1,1 +1,3 @@
 # add env and aws credentials here
+.env
+.env.local
